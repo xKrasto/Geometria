@@ -1,0 +1,2 @@
+# Geometria
+Punto, Segmento, Triangolo
